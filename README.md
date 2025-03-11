@@ -1,1 +1,1 @@
-# Towards-More-Accurate-Personalized-Image-Generation
+# [Official Implementation] Towards More Accurate Personalized Image Generation: Addressing Overfitting and Evaluation Bias
